@@ -1,0 +1,1 @@
+chrome-extension://iekgbdpnpffnlhdgidnfefbmfffpldig/_locales/en_BS/messages.json
